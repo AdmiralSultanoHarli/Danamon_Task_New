@@ -18,6 +18,8 @@ import com.example.danamontask.Model.User;
 
 public class LoginActivity extends AppCompatActivity {
 
+    //aaaa
+
     EditText edtEmail, edtPassword;
     Button btnSignUp, btnSumbit;
     private SQLiteDatabase db;
